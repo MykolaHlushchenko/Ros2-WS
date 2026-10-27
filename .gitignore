@@ -1,0 +1,25 @@
+# ROS 2 build artifacts (Host architecture)
+build/
+install/
+log/
+
+# IDE settings
+.vscode/
+.qtcreator/
+.idea/
+*.user
+
+# Compiled Python files (if you add Python nodes later)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backup and swap files
+*~
+*.swp
+*.bak
+
+# OS specific files
+.DS_Store
+Thumbs.db
